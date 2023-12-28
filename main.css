@@ -61,12 +61,12 @@ body{
     height: 150px;
 }
 .container .left .compte-1 .img{
-    background-image: url(/images/rania.PNG);
+    background-image: url(images/rania.PNG);
     background-size: cover;
     border-radius:10px 10px 0 0;
 }
 .container .left .compte-2 .img{
-    background-image: url(/images/autre.PNG);
+    background-image: url(images/autre.PNG);
     background-size: cover;
     border-radius:10px 10px 0 0;
 }
